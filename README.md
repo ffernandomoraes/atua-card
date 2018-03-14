@@ -1,3 +1,5 @@
-# Help Friend
+# Help Friend (Card CSS)
 
-### card in css
+#### Simple card in CSS.
+
+![alt text](https://i.imgur.com/A7ZLuxa.png "Image Card Example")
